@@ -1,0 +1,13 @@
+[app]
+name = "Snakegon"
+category = "Games"
+
+[entry]
+class = "SnakegonApp"
+
+[metadata]
+author = "Jon Hazan"
+license = "MIT"
+url = "https://github.com/hazanjon/snakegon"
+description = "Snake but with more Hexagons for the Tildagon!"
+version = 1
